@@ -41,7 +41,7 @@ function clock() {
 
 // ====== INITIAL CALL =========
 
-clock();
+// clock();
 
 /** ======= CALCULATION HINTS ========
  *  1  DAY      = 24   HOURS
